@@ -38,6 +38,8 @@
             android:layout_height="50dp"
             android:layout_centerHorizontal="true"
             android:text="Start"
+            android:clickable="true"
+
             android:layout_below="@+id/appName"
             android:layout_marginTop="50dp"
             />
